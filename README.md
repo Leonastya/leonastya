@@ -5,7 +5,7 @@
 
 <h2 align="center">Stack of applications that I work with/know how to work with:</h2>
 
-<div style="display:flex; align-items: center; justify-content: space-between"><h3> 📁 Test documentation<h3>
+<div style="display:flex; align-items: center; justify-content: space-between"><h3> 📁 Test documentation</h3>
   <div style="width:45%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
