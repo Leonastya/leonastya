@@ -1,8 +1,8 @@
-<img align="center" src="https://github.com/Leonastya/leonastya/blob/main/many-white-geese-pattern-snow-79806731.svg">
+<img align="center" src="https://github.com/Leonastya/leonastya/blob/main/qak-qak.svg">
 
 ![](https://komarev.com/ghpvc/?username=leonastya&color=orange&style=for-the-badge)
 
-<img align="left" src="https://github.com/Leonastya/leonastya/blob/main/Sv6q.gif" height="80">
+<img align="left" src="https://github.com/Leonastya/leonastya/blob/main/bug.gif" height="80">
 <h1 align="right">Hi there, I'm Anastasia</h1>
 <p align="right">QA-Engineer from Russia. Here I want to share my pet projects, research, and test suites. </p>
 
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp
-  <img src="https://raw.githubusercontent.com/Leonastya/leonastya/7cd88dae6cf5ee53829dca23bd8d7b632d433a38/test.svg" title="yandex tracker" alt="tracker" width="50" height="50"/>&nbsp
+  <img src="https://raw.githubusercontent.com/Leonastya/leonastya/7cd88dae6cf5ee53829dca23bd8d7b632d433a38/yatracker.svg" title="yandex tracker" alt="tracker" width="50" height="50"/>&nbsp
   </div>
   
   <p> 💻 Testing web applications </p>
