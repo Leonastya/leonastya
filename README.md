@@ -1,10 +1,12 @@
-<img src='https://cs14.pikabu.ru/post_img/2022/07/05/10/og_og_1657039380282031561.jpg'>
-
-<h1 align="center">Hi there, I'm Anastasia<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="right">Hi there, I'm Anastasia<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="right">QA-Engineer from Russia</h3>
+<div style="background:#ff9f00; width:100%">
+<img alight="left" src='https://cs14.pikabu.ru/post_img/2022/07/05/10/og_og_1657039380282031561.jpg' height="260">
+<img alight="right" src='https://cs14.pikabu.ru/post_img/2022/07/05/10/og_og_1657039380282031561.jpg' height="260">
+</div>
 
 <h2 align="center">Stack of applications that I work with/know how to work with:</h2>
-
+<ul>
 <h3> 📁 Test documentation</h3>
   <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
