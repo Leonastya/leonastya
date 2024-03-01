@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp
+  <img src="https://raw.githubusercontent.com/Leonastya/leonastya/7cd88dae6cf5ee53829dca23bd8d7b632d433a38/test.svg" title="yandex tracker" alt="tracker" width="50" height="50"/>&nbsp
   </div>
   
   <h3> 💻 Testing web applications </h3>
