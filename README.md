@@ -1,8 +1,8 @@
 <h1 align="right">Hi there, I'm Anastasia<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="right">QA-Engineer from Russia</h3>
 <div style="background:#ff9f00; width:100%">
-<img alight="left" src='https://cs14.pikabu.ru/post_img/2022/07/05/10/og_og_1657039380282031561.jpg' height="260">
-<img alight="right" src='https://github.com/Leonastya/leonastya/blob/main/og_og_1657039380282031561.svg' height="260">
+<img alight="left" src='https://cs14.pikabu.ru/post_img/2022/07/05/10/og_og_1657039380282031561.jpg' height="250">
+<img alight="right" src='https://github.com/Leonastya/leonastya/blob/main/og_og_1657039380282031561.svg' height="250">
 </div>
 
 <h2 align="center">Stack of applications that I work with/know how to work with:</h2>
