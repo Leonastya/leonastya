@@ -4,7 +4,7 @@
 
 <img align="left" src="https://github.com/Leonastya/leonastya/blob/main/Sv6q.gif" height="80">
 <h1 align="right">Hi there, I'm Anastasia</h1>
-<p align="right">QA-Engineer from Russia. Here I want to share my pet projects, research, and Test suites. </p>
+<p align="right">QA-Engineer from Russia. Here I want to share my pet projects, research, and test suites. </p>
 
 <h4>Stack of applications that I work with/know how to work with:</h4>
 
