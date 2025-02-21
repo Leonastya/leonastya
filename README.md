@@ -14,6 +14,7 @@
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp
   <img src="https://github.com/Leonastya/leonastya/blob/main/yatracker.svg" title="yandex tracker" alt="tracker" width="50" height="50"/>&nbsp
+  <img src="https://files.startupranking.com/startup/thumb/556809_9d638c3867555f71554cd9805b3be1fecf2e9407_qase_l.jpeg" title="QASE" alt="QASE" width="50" height="50"/>&nbsp 
   </div>
   
   <p> 💻 Testing web applications </p>
