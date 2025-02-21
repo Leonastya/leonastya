@@ -14,15 +14,20 @@
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp
   <img src="https://github.com/Leonastya/leonastya/blob/main/yatracker.svg" title="yandex tracker" alt="tracker" width="50" height="50"/>&nbsp
-  <img src="https://files.startupranking.com/startup/thumb/556809_9d638c3867555f71554cd9805b3be1fecf2e9407_qase_l.svg" title="QASE" alt="QASE" width="50" height="50"/>&nbsp 
+  <img src="https://github.com/user-attachments/assets/7ab24824-c6b3-40e7-88c8-e1e5de7ee662" title="QASE" alt="QASE" width="50" height="50"/>&nbsp 
   </div>
   
   <p> 💻 Testing web applications </p>
   <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="50" height="50"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/b92963a7-6c35-4d17-8269-36491a6260f1" title="postman" alt="postman" width="50" height="50"/>&nbsp
   </div>
 
+<p> 📱 Testing mobile apps </p>
+  <div>
+  <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg?hl=ru" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp
+  <img src="https://s.iimg.su/s/21/D3sXKqq2EEx3P8cAlL9lL8ICvwTtmbSF8fTdhTI0.png" title="vysor" alt="vysor" width="50" height="50"/>&nbsp
+  </div>
 
 <p> 💾 Working with data: </p>
 <div>
