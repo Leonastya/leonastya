@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Leonastya/leonastya/blob/main/qak-qak.svg">
+<!-- img align="center" src="https://github.com/Leonastya/leonastya/blob/main/qak-qak.svg" -->
 
 ![](https://komarev.com/ghpvc/?username=leonastya&color=orange&style=for-the-badge)
 
